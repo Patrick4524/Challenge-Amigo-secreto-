@@ -1,3 +1,3 @@
 <h1> Juego del amigo secreto</h1>
 
-Estado del proyecto: en construccion
+Este es un juego desarrollado para agregar nombres a una lista y sortear un amigo secreto de forma aleatoria.
