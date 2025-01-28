@@ -18,5 +18,5 @@ Haz clic en el botón "Sortear" para asignar un amigo secreto de manera al azar.
 Si deseas realizar un nuevo sorteo, simplemente recarga la página en tu navegador.
 
 ## 🌐 Acceso al proyecto
-Puedes probar este proyecto siguiendo este enlace:  [Amigo Secreto Alura](https://damianvillalba.github.io/alura-amigo-secreto/).
+Puedes probar este proyecto siguiendo este enlace:  [Amigo Secreto Alura](https://github.com/Patrick4524/Challenge-Amigo-secreto-.git)).
 
