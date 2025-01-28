@@ -2,7 +2,7 @@
 
 Este es un juego desarrollado para agregar nombres a una lista y sortear un amigo secreto de forma aleatoria.
 
-<h1>Descripción </h1>h1>
+<h1>Descripción </h1>>
 Amigo Secreto Alura es una aplicación web interactiva desarrollada con HTML, CSS y JavaScript. Permite a los usuarios:
 
 Ingresar sus nombres.
