@@ -17,7 +17,6 @@ Haz clic en el botón "Sortear" para asignar un amigo secreto de manera al azar.
 🔄 Reiniciar el sorteo
 Si deseas realizar un nuevo sorteo, simplemente recarga la página en tu navegador.
 
-<h1>Acceso al proyecto </h1>
 ## 🌐 Acceso al proyecto
 Puedes probar este proyecto siguiendo este enlace: 
 Para ejecutar este proyecto en tu computadora localmente, sigue estos pasos:
