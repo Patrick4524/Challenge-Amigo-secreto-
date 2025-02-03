@@ -17,6 +17,3 @@ Haz clic en el botón "Sortear" para asignar un amigo secreto de manera al azar.
 🔄 Reiniciar el sorteo
 Si deseas realizar un nuevo sorteo, simplemente recarga la página en tu navegador.
 
-## 🌐 Acceso al proyecto
-Puedes probar este proyecto siguiendo este enlace: https://github.com/Patrick4524/Challenge-Amigo-secreto-.git
-
